@@ -11,6 +11,8 @@
 ## 使用
 
 右键管理员身份运行“Windows本地日志分析.exe”，点击需要查看的日志，如若一闪而过则无相关日志。
+![image](https://github.com/spaceman-911/WindowsLocalLogAnalysis/assets/59279289/3cef14d0-0eae-415e-bca0-79afe20b52c2)
+
 
 ## 其他
 
