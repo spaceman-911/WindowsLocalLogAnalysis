@@ -10,6 +10,12 @@
 
 目前已完成本地分析版与提取日志分析版本
 
+## V1.1
+添加了type参数，去除了LogParser的黑框
+
+![image](https://github.com/spaceman-911/WindowsLocalLogAnalysis/assets/59279289/54adc427-a3af-40f4-b332-187e6455f7be)
+
+
 ## 使用
 
 ### 本地分析版
